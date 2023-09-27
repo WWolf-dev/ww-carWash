@@ -1,0 +1,1 @@
+INSERT INTO items (name, label, weight) VALUES ('carwashkit', 'Car Wash Kit', 1);
